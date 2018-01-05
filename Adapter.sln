@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{D049646B-9C3D-40B1-A412-04B21A4DCCB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForeignCashMachine", "ForeignCashMachine\ForeignCashMachine.csproj", "{1D6211DF-6416-4515-BCC1-2DFD56A62633}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D049646B-9C3D-40B1-A412-04B21A4DCCB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D049646B-9C3D-40B1-A412-04B21A4DCCB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D049646B-9C3D-40B1-A412-04B21A4DCCB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D049646B-9C3D-40B1-A412-04B21A4DCCB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D6211DF-6416-4515-BCC1-2DFD56A62633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D6211DF-6416-4515-BCC1-2DFD56A62633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D6211DF-6416-4515-BCC1-2DFD56A62633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D6211DF-6416-4515-BCC1-2DFD56A62633}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89C081BD-DFA0-413F-9F75-90F2B8F73FF1}
+	EndGlobalSection
+EndGlobal
